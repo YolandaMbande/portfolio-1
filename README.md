@@ -1,47 +1,120 @@
-# Picto - Personal Portfolio Free Template
+# Personal Coding Portfolio
 
-#### Preview
+A personal developer portfolio built to showcase my software development projects, technical skills, experience, and background.
 
-- [Demo](https://themewagon.github.io/picto/)
+The portfolio is designed as a responsive, interactive website with a focus on clean UI, smooth navigation, and a modern developer-focused experience.
 
-#### Download
+## 🌐 Live Portfolio
 
-- [Download from ThemeWagon](https://themewagon.com/themes/picto)
+[View Portfolio](YOUR-LIVE-PORTFOLIO-URL)
 
-## Getting Started
+## 📸 Website Preview
 
-1. Clone Repository
+<img width="934" height="434" alt="Screenshot 2026-09-12 160711" src="https://github.com/user-attachments/assets/e9f0e05a-11d5-43c5-8481-e0ac0ed47507" />
 
+
+## ✨ Features
+
+* Responsive design for desktop, tablet, and mobile
+* Interactive navigation
+* Project showcase
+* Skills and technology sections
+* About and experience sections
+* Contact form
+* Social and developer profile links
+* Smooth scrolling and page transitions
+* Responsive animations and interactive UI elements
+* Modern component-based architecture
+
+## 🛠️ Built With
+
+* React
+* JavaScript
+* Vite
+* Tailwind CSS
+* DaisyUI
+* React Router
+* Swiper
+* Font Awesome
+* EmailJS
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YolandaMbande/portfolio-1.git
 ```
-git clone https://github.com/themewagon/picto.git
+
+Navigate into the project:
+
+```bash
+cd portfolio-1
 ```
 
-2. Install Dependencies
+Install the dependencies:
 
-```
-npm i
+```bash
+npm install
 ```
 
-3. Run the development server:
+## 🚀 Running Locally
+
+Start the Vite development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-## Author
+The development server will provide a local URL where the portfolio can be viewed in the browser.
 
+## 🏗️ Build
+
+To create a production build:
+
+```bash
+npm run build
 ```
-Developed by ThemeWagon and development team.
+
+To preview the production build locally:
+
+```bash
+npm run preview
 ```
 
-## License
+## 📁 Project Structure
 
-- Design and Code is Copyright &copy; <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
-- Licensed cover under [MIT]
-- Developed by <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
+```text
+portfolio-1/
+│
+├── public/
+├── src/
+├── index.css
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+```
+
+## 🎨 Customization
+
+The portfolio can be customized by updating the React components, styling, images, project information, skills, social links, and contact details.
+
+Tailwind CSS and DaisyUI are used for styling and UI components.
+
+## 📬 Contact
+
+The portfolio includes a contact form powered by EmailJS, allowing visitors to get in touch directly through the website.
+
+## 👩🏾‍💻 Author
+
+**Yolanda Mbande**
+
+Software Developer · Cape Town, South Africa
+
+GitHub: [@YolandaMbande](https://github.com/YolandaMbande)
+
+---
+
+Made with React, JavaScript, and Vite.
